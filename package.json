@@ -7,15 +7,15 @@
     "youtube-dl": "^3.5.0",
     "youtube-dl-exec": "^1.2.3"
   },
-  "name": "links-videos-downloader",
+  "name": "Video-Downloader",
   "version": "1.4.6",
-  "description": "A Downloader for youtube, instagram, facebook, tik tok, and even fsk 18 stuff",
+  "description": " Gamecooler19's Reward Lounge Video Downloader OP",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
   },
-  "author": "Tomato#6966",
-  "license": "ISC"
+  "author": "Gamecooler19#3016",
+  "license": "MIT"
 }
